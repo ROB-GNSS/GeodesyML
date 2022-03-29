@@ -33,6 +33,7 @@ Copyright: Commonwealth Government (Geoscience Australia) 2016
                     <element minOccurs="0" name="receivedDate" type="gml:TimePositionType"/>
                     <element minOccurs="0" name="custodian" type="gmd:CI_ResponsibleParty_PropertyType"/>
                     <element minOccurs="0" name="remarks" type="string"/>
+                    <element minOccurs="0" name="license" type="geo:licenseType"/>
                     <element minOccurs="0" name="body">
                         <complexType>
                             <choice>
